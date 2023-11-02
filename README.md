@@ -1,3 +1,9 @@
+Hey dev!
+This is the seccond part of the Fullstack class in DevClub with Rodolfo Mori, using React and React Hooks, such as useContext, Toastify and others. 
+![CodeBurger](https://github.com/devmichelle95/code-burger-app/assets/97068209/3cacf793-de9d-483e-a526-3749622ebd2f)
+![CodeBurger 1](https://github.com/devmichelle95/code-burger-app/assets/97068209/478b6e57-c6d2-4fe8-beb4-31490b251d69)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
